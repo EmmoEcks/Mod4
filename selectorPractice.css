@@ -1,0 +1,21 @@
+  body /*selector here*/    {
+    background-color: #ccffcc;
+    color: #336600;
+  }
+  
+   h1 /*selector here*/   {
+    background-color: #336600;
+    color: #ccffcc;
+  }
+  
+  p /*selector here*/    {
+    border: 3px solid;
+  }
+  
+   ul, ol /*selector here*/   {
+    background-color: #ffff99;
+  }
+  
+    h1, h2 /*selector here*/   {
+    text-decoration: underline;
+  }

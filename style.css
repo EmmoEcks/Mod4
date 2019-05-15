@@ -1,0 +1,19 @@
+/*Stylize the body. Purple background*/
+body {
+    background-color:purple
+}
+
+/*Stylize h1, White*/
+h1 {
+    color:white
+}
+
+/*Stylize paragraph text, Fuscia*/
+p {
+    color:fuchsia
+}
+
+/*Stylize unorderd list, black writing grey background*/
+ul {
+    background-color:lightgray
+}

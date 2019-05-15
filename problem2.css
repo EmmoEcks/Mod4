@@ -1,0 +1,81 @@
+span.a {
+    border-left: 20px lightgray solid;
+    border-bottom: 44px lightgray solid;
+    border-right: 40px lightgray solid;
+    margin-left: 50px;
+}
+
+span.b {
+    border-left: 40px lightgray solid;
+    border-bottom: 44px lightgray solid;
+    border-right: 20px lightgray solid;
+}
+
+span.c {
+    border-left: 20px lightgray solid;
+    border-top: 44px lightgray solid;
+    border-right: 40px lightgray solid;
+    margin-left: 50px;
+}
+
+span.d {
+    border-left: 40px lightgray solid;
+    border-top: 44px lightgray solid;
+    border-right: 20px lightgray solid;
+}
+
+span {
+    text-align: center;
+    width: 250px;
+    height: 350px;
+    color: white;
+    background-color: red;
+    padding: 10px;
+    font-size: 1.5em;
+    float: left;
+}
+
+h1.left {
+    display: inline;
+    background-color: #ffcc00;
+    color: white;
+    padding: 50px;
+    font-size: 2em;
+}
+
+h1.right {
+    display: inline;
+    background-color: #ffcc00;
+    color: white;
+    text-align: right;
+    padding: 50px;
+    font-size: 2em;
+}
+
+body {
+    background-color: teal;
+    color: white;
+    font-family: Helvetica, Courier, "Courier New", serif;
+}
+
+span.e {
+    font-size: 1.5em;
+}
+
+nav {
+text-align: center;
+width: 700px;
+}
+
+
+
+
+
+
+/*light yellow: #ffff99
+medium yellow: #ffcc00
+orange: #ff6600
+
+Helvetica
+Impact
+Courier New*/
